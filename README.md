@@ -1,4 +1,6 @@
-# Quatro
+# Qutro
+
+Projekt realizowany w ramach przedmiotu Korporacyjna Java na Uniwersytecie Wrocławskim wiosną 2023 roku. Projekt realizowany był w 4 osobowym zespole. Realizacja projektu miała na celu symulacje tworzenia oprogramowania w warunach korporacyjnych z wykorzystaniem systemu kontroli wersji git na przykładzie języka Java.
 
 Projekt na zajęcia: Korporacyjna Java
 
