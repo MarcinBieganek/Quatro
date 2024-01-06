@@ -2,6 +2,8 @@
 
 Projekt realizowany w ramach przedmiotu Korporacyjna Java na Uniwersytecie Wrocławskim wiosną 2023 roku. Projekt realizowany był w 4 osobowym zespole. Realizacja projektu miała na celu symulacje tworzenia oprogramowania w warunach korporacyjnych z wykorzystaniem systemu kontroli wersji git na przykładzie języka Java.
 
+Poniżej znajdują się opisy poszczególnych etapów projektu.
+
 Projekt na zajęcia: Korporacyjna Java
 
 Program do rozwiązywania zadań geometrycznych 2D
